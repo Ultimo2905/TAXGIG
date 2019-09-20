@@ -183,6 +183,7 @@ body {
     flex-direction: column;
     justify-content: center;
     width: 814px;
+    padding-left: 32px;
 }
 
 .link-to-box {
